@@ -8,7 +8,7 @@
 I'm a 2nd year student pursuing Master's in Computer Applications 🎓
 
 - 🌱 I'm currently learning **React, Node.js, and DSA**
-- 💬 Ask me about **Web Development, JavaScript, C++**
+- 💬 Ask me about **Web Development, JavaScript**
 - 📫 How to reach me: **DebHtm@gmail.com**
 - 📍 Location: **New Delhi**
 
