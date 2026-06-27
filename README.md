@@ -3,15 +3,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi,%20I'm%20DebHtm&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=55&descAlign=50)
 
-## 👨‍💎 About Me
-
-I'm a 2nd year student pursuing Master's in Computer Applications 🎓
-
-- 🌱 I'm currently learning **React, Node.js, and DSA**
-- 💬 Ask me about **Web Development, JavaScript**
-- 📫 How to reach me: **DebHtm@gmail.com**
-- 📍 Location: **New Delhi**
-
 ## 🛠️ Technology Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
