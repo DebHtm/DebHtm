@@ -11,7 +11,6 @@ I'm a Systems Analysis student turning into a frontend developer. I build things
 - 🎓 Studying Systems Analysis at Lviv Polytechnic National University
 - 💻 Building a full-stack banking app (React + NestJS + Prisma + PostgreSQL) as my main portfolio project
 - 🧠 Diploma thesis: a grocery recommendation system powered by ML (Random Forest, Apriori, cosine similarity)
-- 📸 When I'm not coding — I'm out shooting the night sky (astrophotography)
 
 ---
 
