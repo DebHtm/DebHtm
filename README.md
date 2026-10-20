@@ -8,7 +8,7 @@
 
 I'm a Systems Analysis student turning into a frontend developer. I build things end-to-end — from React interfaces to NestJS APIs — and I'm currently looking for my first junior frontend role.
 
-- 🎓 Studying Systems Analysis at Lviv Polytechnic National University
+- 🎓 Systems Analysis at Lviv Polytechnic National University
 - 💻 Building a full-stack banking app (React + NestJS + Prisma + PostgreSQL) as my main portfolio project
 - 🧠 Diploma thesis: a grocery recommendation system powered by ML (Random Forest, Apriori, cosine similarity)
 
