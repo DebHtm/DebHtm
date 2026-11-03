@@ -102,18 +102,6 @@ JavaScript · TypeScript · React · Redux Toolkit · REST API · HTML · CSS/SC
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DebHtm&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebHtm&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### Let's connect
