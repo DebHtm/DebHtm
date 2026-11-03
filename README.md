@@ -20,7 +20,7 @@ I enjoy creating clean, reusable UI components, working with application state, 
 - 🅰️ Currently expanding my frontend stack with **Angular**
 - 🧩 Interested in scalable component architecture and clean, maintainable code
 - 🌍 Open to **Junior Frontend Developer** opportunities
-- 🇬🇧 English — **B1 Intermediate**
+- 🇬🇧 English - **B1 Intermediate**
 
 ---
 
@@ -93,8 +93,8 @@ Frontend application architecture
 ## Education
 
 **Lviv Polytechnic National University**  
-Bachelor's Degree — **Systems Analysis and Data Science**  
-2022 — 2026
+Bachelor's Degree - **Systems Analysis and Data Science**  
+2022 - 2026
 
 **Mate academy**  
 Frontend Development  
