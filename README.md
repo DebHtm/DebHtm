@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Denys%20Ptushkin&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20TypeScript&descAlignY=58&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Denys%20Ptushkin&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20and%20TypeScript&descAlignY=58&descAlign=50)
 
 ### Frontend Developer focused on React, TypeScript and modern web development
 
