@@ -5,7 +5,7 @@
 ### Frontend Developer focused on React, TypeScript and modern web development
 
 [![GitHub](https://img.shields.io/badge/GitHub-DebHtm-181717?style=flat-square&logo=github)](https://github.com/DebHtm)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Denys%20Ptushkin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Denys%20Ptushkin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denys-ptyshkin-b04b642b9/)
 
 </div>
 
